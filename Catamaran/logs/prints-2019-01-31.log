@@ -1,0 +1,8 @@
+11:15:06.920 [main] INFO  resources.Base -  Entering description of prediction in the description field
+11:15:07.383 [main] INFO  resources.Base -  Entered option 1
+11:15:07.787 [main] INFO  resources.Base -  Entered option 2
+11:15:09.213 [main] INFO  resources.Base -  Clicked on Add More Option
+11:15:09.595 [main] INFO  resources.Base -  Entered option 3
+11:15:09.858 [main] INFO  resources.Base - Click on End date Field
+11:15:10.628 [main] INFO  resources.Base - Select month
+11:15:13.032 [main] INFO  resources.Base -  select required day from calender

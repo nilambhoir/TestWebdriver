@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="ShipcomGroupId.listerners"/>
+  </listeners>
+  <test name="Add Prediction(failed)">
+    <classes>
+      <class name="ShipcomGroupId.Predict_Now">
+        <methods>
+          <include name="AddPrivatePrediction"/>
+          <include name="initializeTest"/>
+        </methods>
+      </class> <!-- ShipcomGroupId.Predict_Now -->
+    </classes>
+  </test> <!-- Add Prediction(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Suite">
+<listeners>
+<listener class-name="ShipcomGroupId.listerners"/>
+</listeners>
+
+  <test name="Add Prediction">
+    <classes>
+      <class name="ShipcomGroupId.Predict_Now"/>
+      </classes>
+  </test> 
+          
+  <test name = "app test">
+      <classes>
+      <class name="ShipcomGroupId.AppTest"/>
+      </classes>
+  </test>
+      <!-- Test -->
+</suite> <!-- Suite -->

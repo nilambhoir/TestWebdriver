@@ -1,0 +1,7 @@
+19:22:41.140 [main] INFO  resources.Base -  Entered option 3
+19:22:41.381 [main] INFO  resources.Base - Click on End date Field
+19:22:41.763 [main] INFO  resources.Base -  select required month from calender
+19:22:41.972 [main] INFO  resources.Base -  select required month from calender
+19:22:42.167 [main] INFO  resources.Base -  select required month from calender
+19:22:44.655 [main] INFO  resources.Base -  select required day from calender
+19:22:45.411 [main] INFO  resources.Base - Entered required email Ids

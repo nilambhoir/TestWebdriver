@@ -1,0 +1,7 @@
+16:24:54.451 [main] INFO  resources.Base -  Navigating to FB Login Screen
+16:25:00.469 [main] INFO  resources.Base - Logged in with FB
+16:25:10.418 [main] INFO  resources.Base -  Entering title of prediction in the title field
+16:25:11.058 [main] INFO  resources.Base -  Entering description of prediction in the description field
+16:25:11.520 [main] INFO  resources.Base -  Entered option 1
+16:25:11.944 [main] INFO  resources.Base -  Entered option 2
+16:25:12.904 [main] INFO  resources.Base -  Clicked on Add More Option
