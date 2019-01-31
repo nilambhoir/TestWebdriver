@@ -1,8 +1,7 @@
-11:15:06.920 [main] INFO  resources.Base -  Entering description of prediction in the description field
-11:15:07.383 [main] INFO  resources.Base -  Entered option 1
-11:15:07.787 [main] INFO  resources.Base -  Entered option 2
-11:15:09.213 [main] INFO  resources.Base -  Clicked on Add More Option
-11:15:09.595 [main] INFO  resources.Base -  Entered option 3
-11:15:09.858 [main] INFO  resources.Base - Click on End date Field
-11:15:10.628 [main] INFO  resources.Base - Select month
-11:15:13.032 [main] INFO  resources.Base -  select required day from calender
+18:09:37.571 [main] INFO  resources.Base - Maximizing the screen
+18:09:46.527 [main] INFO  resources.Base -  Clicking on Login screen
+18:09:46.831 [main] INFO  resources.Base -  Navigating to FB Login Screen
+18:09:54.799 [main] INFO  resources.Base - Logged in with FB
+18:10:05.289 [main] INFO  resources.Base -  Entering title of prediction in the title field
+18:10:06.037 [main] INFO  resources.Base -  Entering description of prediction in the description field
+18:10:06.495 [main] INFO  resources.Base -  Entered option 1
