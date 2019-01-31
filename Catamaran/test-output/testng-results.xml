@@ -2,20 +2,22 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="42831" started-at="2019-01-31T05:44:36Z" finished-at="2019-01-31T05:45:19Z">
+  <suite name="Suite" duration-ms="70035" started-at="2019-01-31T12:39:08Z" finished-at="2019-01-31T12:40:18Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="42831" started-at="2019-01-31T05:44:36Z" finished-at="2019-01-31T05:45:19Z">
+    <test name="Add Prediction" duration-ms="69877" started-at="2019-01-31T12:39:08Z" finished-at="2019-01-31T12:40:17Z">
       <class name="ShipcomGroupId.Predict_Now">
-        <test-method status="PASS" signature="initializeTest()[pri:0, instance:ShipcomGroupId.Predict_Now@43bc63a3]" name="initializeTest" is-config="true" duration-ms="28989" started-at="2019-01-31T11:14:36Z" finished-at="2019-01-31T11:15:05Z">
+        <test-method status="PASS" signature="initializeTest()[pri:0, instance:ShipcomGroupId.Predict_Now@477b4cdf]" name="initializeTest" is-config="true" duration-ms="55708" started-at="2019-01-31T18:09:08Z" finished-at="2019-01-31T18:10:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeTest -->
-        <test-method status="PASS" signature="AddPrivatePrediction()[pri:0, instance:ShipcomGroupId.Predict_Now@43bc63a3]" name="AddPrivatePrediction" duration-ms="13809" started-at="2019-01-31T11:15:05Z" finished-at="2019-01-31T11:15:19Z">
+        <test-method status="PASS" signature="AddPrivatePrediction()[pri:0, instance:ShipcomGroupId.Predict_Now@477b4cdf]" name="AddPrivatePrediction" duration-ms="13908" started-at="2019-01-31T18:10:04Z" finished-at="2019-01-31T18:10:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AddPrivatePrediction -->
       </class> <!-- ShipcomGroupId.Predict_Now -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Add Prediction -->
+    <test name="app test" duration-ms="2" started-at="2019-01-31T12:40:18Z" finished-at="2019-01-31T12:40:18Z">
+    </test> <!-- app test -->
+  </suite> <!-- Suite -->
 </testng-results>
