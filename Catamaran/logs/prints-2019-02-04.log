@@ -1,0 +1,8 @@
+18:17:30.732 [main] INFO  resources.Base - Maximizing the screen
+18:17:46.074 [main] INFO  resources.Base -  Clicking on Login screen
+18:17:46.846 [main] INFO  resources.Base -  Navigating to FB Login Screen
+18:18:03.874 [main] INFO  resources.Base - Logged in with FB
+18:18:16.693 [main] INFO  resources.Base - Clicked on AskQuestion button
+18:18:23.431 [main] INFO  resources.Base - Entered title of question
+18:18:27.337 [main] INFO  resources.Base - Entered description
+18:23:28.256 [main] INFO  resources.Base -  Chrome Driver is initialized

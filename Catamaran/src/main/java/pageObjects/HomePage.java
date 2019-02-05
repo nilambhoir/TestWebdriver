@@ -12,6 +12,9 @@ public class HomePage {
 	By Search = By.xpath("/html/body/div[1]/div/div[1]/div[2]/div/div/div/input");
 	By Prediction = By.xpath("//*[@id='popularpredictions']/div[1]/div[1]/div/div[2]/button");
 	By Add_Predict = By.xpath("/html/body/div[4]/div/div[1]/div[1]/div[2]/div/div[2]/a");
+	By Question = By.xpath("/html/body/div[4]/div[3]/div[2]/div/div[1]/div[1]/a/div");
+	
+	
 	
 	
 	public HomePage(WebDriver driver) {
@@ -34,6 +37,10 @@ public class HomePage {
 		return driver.findElement(Add_Predict);
 	}
 	
+	public WebElement clickOnQuestion()
+	{
+		return driver.findElement(Question);
+	}
 	
 	
 }

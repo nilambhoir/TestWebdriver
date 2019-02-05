@@ -1,23 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="70035" started-at="2019-01-31T12:39:08Z" finished-at="2019-01-31T12:40:18Z">
+  <suite name="Default suite" duration-ms="84050" started-at="2019-02-05T10:09:12Z" finished-at="2019-02-05T10:10:36Z">
     <groups>
     </groups>
-    <test name="Add Prediction" duration-ms="69877" started-at="2019-01-31T12:39:08Z" finished-at="2019-01-31T12:40:17Z">
-      <class name="ShipcomGroupId.Predict_Now">
-        <test-method status="PASS" signature="initializeTest()[pri:0, instance:ShipcomGroupId.Predict_Now@477b4cdf]" name="initializeTest" is-config="true" duration-ms="55708" started-at="2019-01-31T18:09:08Z" finished-at="2019-01-31T18:10:03Z">
+    <test name="Default test" duration-ms="84050" started-at="2019-02-05T10:09:12Z" finished-at="2019-02-05T10:10:36Z">
+      <class name="ShipcomGroupId.AskQuestion">
+        <test-method status="PASS" signature="initializeTest()[pri:0, instance:ShipcomGroupId.AskQuestion@139982de]" name="initializeTest" is-config="true" duration-ms="65663" started-at="2019-02-05T15:39:12Z" finished-at="2019-02-05T15:40:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeTest -->
-        <test-method status="PASS" signature="AddPrivatePrediction()[pri:0, instance:ShipcomGroupId.Predict_Now@477b4cdf]" name="AddPrivatePrediction" duration-ms="13908" started-at="2019-01-31T18:10:04Z" finished-at="2019-01-31T18:10:17Z">
+        <test-method status="PASS" signature="AskQuestionFunction()[pri:0, instance:ShipcomGroupId.AskQuestion@139982de]" name="AskQuestionFunction" duration-ms="16096" started-at="2019-02-05T15:40:17Z" finished-at="2019-02-05T15:40:33Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- AddPrivatePrediction -->
-      </class> <!-- ShipcomGroupId.Predict_Now -->
-    </test> <!-- Add Prediction -->
-    <test name="app test" duration-ms="2" started-at="2019-01-31T12:40:18Z" finished-at="2019-01-31T12:40:18Z">
-    </test> <!-- app test -->
-  </suite> <!-- Suite -->
+        </test-method> <!-- AskQuestionFunction -->
+        <test-method status="PASS" signature="autocomplete(java.lang.String, java.lang.String)[pri:0, instance:ShipcomGroupId.AskQuestion@139982de]" name="autocomplete" duration-ms="1168" started-at="2019-02-05T15:40:33Z" data-provider="getData1" finished-at="2019-02-05T15:40:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Med]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Medicine]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- autocomplete -->
+        <test-method status="PASS" signature="autocomplete(java.lang.String, java.lang.String)[pri:0, instance:ShipcomGroupId.AskQuestion@139982de]" name="autocomplete" duration-ms="1078" started-at="2019-02-05T15:40:35Z" data-provider="getData1" finished-at="2019-02-05T15:40:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Med]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mediclaim]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- autocomplete -->
+      </class> <!-- ShipcomGroupId.AskQuestion -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

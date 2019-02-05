@@ -1,0 +1,8 @@
+15:29:57.770 [main] INFO  resources.Base - Entered title of question
+15:30:01.152 [main] INFO  resources.Base - Entered description
+15:39:18.045 [main] INFO  resources.Base -  Chrome Driver is initialized
+15:39:40.129 [main] INFO  resources.Base - Landing to crowdwisdom site
+15:39:41.523 [main] INFO  resources.Base - Maximizing the screen
+15:39:45.485 [main] INFO  resources.Base -  Clicking on Login screen
+15:39:45.892 [main] INFO  resources.Base -  Navigating to FB Login Screen
+15:40:17.652 [main] INFO  resources.Base - Logged in with FB

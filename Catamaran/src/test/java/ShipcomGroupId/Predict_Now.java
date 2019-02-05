@@ -29,8 +29,8 @@ public class Predict_Now extends Base {
 	
 	
 	public static Logger Log = LogManager.getLogger(Base.class.getName());
-	@BeforeTest
 	
+	@BeforeTest
 	public void initializeTest() throws IOException
 	{
 		driver = initializeDriver( );

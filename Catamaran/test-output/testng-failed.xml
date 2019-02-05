@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="ShipcomGroupId.Predict_Now">
+      <class name="ShipcomGroupId.AskQuestion">
         <methods>
-          <include name="AddPrivatePrediction"/>
           <include name="initializeTest"/>
+          <include name="AskQuestionFunction" invocation-numbers="1"/>
         </methods>
-      </class> <!-- ShipcomGroupId.Predict_Now -->
+      </class> <!-- ShipcomGroupId.AskQuestion -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

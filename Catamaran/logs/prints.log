@@ -1,8 +1,3 @@
-18:10:07.422 [main] INFO  resources.Base -  Entered option 2
-18:10:07.624 [main] INFO  resources.Base -  Clicked on Add More Option
-18:10:08.039 [main] INFO  resources.Base -  Entered option 3
-18:10:08.270 [main] INFO  resources.Base - Click on End date Field
-18:10:09.193 [main] INFO  resources.Base - Select month
-18:10:11.957 [main] INFO  resources.Base -  select required day from calender
-18:10:12.642 [main] INFO  resources.Base - Entered required email Ids
-18:10:12.742 [main] INFO  resources.Base - Upload  prediction img 
+15:40:29.314 [main] INFO  resources.Base - Clicked on AskQuestion button
+15:40:30.778 [main] INFO  resources.Base - Entered title of question
+15:40:33.836 [main] INFO  resources.Base - Entered description
